@@ -126,7 +126,7 @@ label {
 
 .splash {
     /* absolute center .splash within .splash-container */
-    width: 90%;
+    width: 95%;
     height: 50%;
     margin: auto;
     position: absolute;
@@ -195,8 +195,8 @@ label {
     /* We decrease the width of the .splash, since we have more width
     to work with */
     .splash {
-        width: 50%;
-        height: 50%;
+        width: 75%;
+        height: 100%;
     }
 
     .splash-head {
