@@ -21,7 +21,7 @@ font-size: 150%;
  * Most of these are inherited from Base, but I want to change a few.
  */
 body {
-   background: transparent url('https://postapocalypse.github.io/zine-2/bg2.jpg') 0 0 no-repeat fixed;
+   background: transparent url('https://postapocalypse.github.io/zine-2/bg2.jpg') center center no-repeat fixed;
   background-size: cover;
     line-height: 1.7em;
     color: #7f8c8d;
