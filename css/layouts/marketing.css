@@ -3,7 +3,7 @@
 	color:#fff;
 	 font-family: futura-pt;
 	    font-weight:700;
-	font-size:2rem;
+	font-size:15px;
 	margin: 0.5rem;
 	-moz-border-radius:4px;
 	-webkit-border-radius:4px;
@@ -202,6 +202,10 @@ label {
     .splash-head {
         font-size: 250%;
     }
+  
+  .download(
+  font-size: 250%;
+}
 
 
     /* We remove the border-separator assigned to .l-box-lrg */
@@ -221,4 +225,7 @@ label {
     .splash-head {
         font-size: 300%;
     }
+   .download(
+  font-size: 300%;
+}
 }
