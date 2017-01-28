@@ -1,5 +1,5 @@
 .download{
- background-color:#2d3e50;
+ background-color:salmon;
 	color:#fff;
 	 font-family: futura-pt;
 	    font-weight:700;
@@ -151,7 +151,7 @@ label {
 .splash-head {
     font-size: 40px;
     font-weight: bold;
-    color: salmon;
+    color: white;
 	font-family: bookmania;
    
     /* padding: 0.5em 1.6em; */
