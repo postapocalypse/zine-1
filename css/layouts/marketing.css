@@ -116,7 +116,8 @@ label {
 
 
 .splash-container {
-  background: transparent url('bg.JPG') 0 0 no-repeat fixed;
+  background: blue;
+ /* background: transparent url('bg.JPG') 0 0 no-repeat fixed;*/
     text-align: center;
     background-size: cover;
   -webkit-background-size: cover;
