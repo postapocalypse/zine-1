@@ -114,13 +114,15 @@ label {
  */
 
 .splash-container {
-background: transparent url('http://24.media.tumblr.com/ccb268832580ac12951828a1c179de69/tumblr_mo2xbk8JUK1st5lhmo1_1280.jpg') 0 0 no-repeat fixed;
-  
+  text-align: center;
+background: transparent url('DSC08663 clean.JPG') 0 0 no-repeat fixed;
+  background-size: cover;
+  display: table;
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
-    height: 88%;
+   
     top: 0;
     left: 0;
     position: fixed !important;
