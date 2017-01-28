@@ -60,23 +60,6 @@ label {
 
 
 
-/*
- * -- PURE FORM STYLES --
- * Style the form inputs and labels
- */
-.pure-form label {
-    margin: 1em 0 0;
-    font-weight: bold;
-    font-size: 100%;
-}
-
-.pure-form input[type] {
-    border: 2px solid #ddd;
-    box-shadow: none;
-    font-size: 100%;
-    width: 100%;
-    margin-bottom: 1em;
-}
 
 
 
@@ -104,8 +87,9 @@ label {
 
 .home-menu .pure-menu-heading {
     color: white;
-    font-weight: 400;
+    font-weight: 700;
     font-size: 120%;
+  
 }
 
 .home-menu .pure-menu-selected a {
