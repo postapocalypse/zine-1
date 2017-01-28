@@ -16,7 +16,9 @@ font-size: 150%;
     box-sizing: border-box;
 }
 
-
+html{
+background:cornflowerblue;	
+}
 body {
    background: transparent url('https://postapocalypse.github.io/zine-1/bg2.jpg') center center no-repeat fixed;
   background-size: cover;
