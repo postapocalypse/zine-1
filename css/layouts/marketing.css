@@ -200,9 +200,7 @@ label {
         font-size: 200%;
     }
   
-  .download {
-  font-size: 150%;
-}
+  
 
 
     /* We remove the border-separator assigned to .l-box-lrg */
@@ -222,7 +220,5 @@ label {
     .splash-head {
         font-size: 400%;
     }
-   .download(
-  font-size: 300%;
-}
+   
 }
