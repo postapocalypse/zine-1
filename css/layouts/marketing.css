@@ -24,7 +24,7 @@ body {
     line-height: 1.7em;
     color: #7f8c8d;
     font-size: 13px;
-      background: url(DSC08663 clean.JPG) no-repeat center center fixed; 
+      background: url("DSC08663 clean.JPG") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
