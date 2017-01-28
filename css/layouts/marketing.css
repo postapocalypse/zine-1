@@ -116,9 +116,8 @@ label {
 .splash-container {
   text-align: center;
 background: transparent url('DSC08663 clean.JPG') 0 0 no-repeat fixed;
-  background-size: cover;
-  display: table;
-  
+
+    z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
