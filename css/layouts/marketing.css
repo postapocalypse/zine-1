@@ -24,7 +24,11 @@ body {
     line-height: 1.7em;
     color: #7f8c8d;
     font-size: 13px;
-      background: url(/bg.JPG) no-repeat center center fixed; 
+     
+}
+
+html{
+   background: url(/bg.JPG) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
