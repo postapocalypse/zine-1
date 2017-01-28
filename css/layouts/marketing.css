@@ -121,15 +121,7 @@ label {
  * This is the blue top section that appears on the page.
  */
 
-html {
- 
-  background: url(DSC08663 clean.JPG) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 
-}
 .splash-container {
  
     z-index: 1;
