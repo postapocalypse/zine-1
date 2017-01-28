@@ -114,7 +114,8 @@ label {
  */
 
 .splash-container {
-
+background: transparent url('http://24.media.tumblr.com/ccb268832580ac12951828a1c179de69/tumblr_mo2xbk8JUK1st5lhmo1_1280.jpg') 0 0 no-repeat fixed;
+  
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
@@ -186,15 +187,6 @@ label {
         .home-menu ul {
             float: right;
         }
-
-    /* We increase the height of the splash-container */
-/*    .splash-container {
-        height: 500px;
-    }*/
-
-    /* We decrease the width of the .splash, since we have more width
-    to work with */
-   
 
     .splash-head {
         font-size: 200%;
