@@ -78,23 +78,6 @@ label {
     margin-bottom: 1em;
 }
 
-/*
- * -- PURE BUTTON STYLES --
- * I want my pure-button elements to look a little different
- */
-.pure-button {
-    background-color: #1f8dd6;
-    color: white;
-    padding: 0.5em 2em;
-    border-radius: 5px;
-}
-
-a.pure-button-primary {
-    background: white;
-    color: #1f8dd6;
-    border-radius: 5px;
-    font-size: 120%;
-}
 
 
 /*
@@ -103,6 +86,7 @@ a.pure-button-primary {
  */
 
 .home-menu {
+	font-family: futura-pt;
     padding: 0.5em;
     text-align: center;
     box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
@@ -163,7 +147,7 @@ a.pure-button-primary {
     position: absolute;
     top: 100px; left: 0; bottom: 0; right: 0;
     text-align: center;
-    text-transform: uppercase;
+ 
 }
 
 /* This is the main heading that appears on the blue section */
@@ -171,10 +155,11 @@ a.pure-button-primary {
     font-size: 20px;
     font-weight: bold;
     color: white;
-    border: 3px solid white;
+	font-family: bookmania;
+   
     padding: 1em 1.6em;
-    font-weight: 100;
-    border-radius: 5px;
+
+   
     line-height: 1em;
 }
 
