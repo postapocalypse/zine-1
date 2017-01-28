@@ -89,6 +89,7 @@ label {
 	font-family: futura-pt;
     padding: 0.5em;
     text-align: center;
+	text-transform: uppercase;
     box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
 }
 .home-menu {
@@ -141,7 +142,7 @@ label {
 
 .splash {
     /* absolute center .splash within .splash-container */
-    width: 80%;
+    width: 90%;
     height: 50%;
     margin: auto;
     position: absolute;
@@ -165,6 +166,7 @@ label {
 
 /* This is the subheading that appears on the blue section */
 .splash-subhead {
+	font-family: futura;
     color: white;
     letter-spacing: 0.05em;
     opacity: 0.8;
