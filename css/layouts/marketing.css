@@ -113,10 +113,17 @@ label {
  * This is the blue top section that appears on the page.
  */
 
+html {
+ html { 
+  background: url(DSC08663 clean.JPG) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} 
+}
 .splash-container {
-  text-align: center;
-background: transparent url('DSC08663 clean.JPG') 0 0 no-repeat fixed;
-
+ 
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
